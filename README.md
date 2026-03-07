@@ -972,6 +972,19 @@ Se você estiver usando symlinks para a fonte canônica, basta editar o arquivo 
 
 ---
 
+## Referências
+
+- [Agent Skills — Anthropic Engineering Blog](https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills)
+- [Claude Code Skills — Documentação oficial](https://code.claude.com/docs/en/skills)
+- [OpenAI Codex CLI Skills — Documentação oficial](https://developers.openai.com/codex/skills/)
+- [Using Agent Skills in Gemini CLI — Google Cloud Blog](https://medium.com/google-cloud/beyond-prompt-engineering-using-agent-skills-in-gemini-cli-04d9af3cda21)
+- [Anthropic SDK — Python](https://github.com/anthropic/anthropic-sdk-python)
+- [Anthropic SDK — Node.js](https://github.com/anthropic/anthropic-sdk-typescript)
+- [Google GenAI SDK — Python](https://github.com/google/generative-ai-python)
+- [Google GenAI SDK — Node.js](https://github.com/google/generative-ai-js)
+
+---
+
 ## 👤 Autor | Author
 
 <table>
@@ -998,13 +1011,14 @@ Se você estiver usando symlinks para a fonte canônica, basta editar o arquivo 
 
 ---
 
-## Referências
+## 📦 Sobre este repositório | About this repository
 
-- [Agent Skills — Anthropic Engineering Blog](https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills)
-- [Claude Code Skills — Documentação oficial](https://code.claude.com/docs/en/skills)
-- [OpenAI Codex CLI Skills — Documentação oficial](https://developers.openai.com/codex/skills/)
-- [Using Agent Skills in Gemini CLI — Google Cloud Blog](https://medium.com/google-cloud/beyond-prompt-engineering-using-agent-skills-in-gemini-cli-04d9af3cda21)
-- [Anthropic SDK — Python](https://github.com/anthropic/anthropic-sdk-python)
-- [Anthropic SDK — Node.js](https://github.com/anthropic/anthropic-sdk-typescript)
-- [Google GenAI SDK — Python](https://github.com/google/generative-ai-python)
-- [Google GenAI SDK — Node.js](https://github.com/google/generative-ai-js)
+> Tutorial completo sobre uso de Skills em LLMs (Codex CLI, Claude Code e Gemini CLI) — padrão aberto SKILL.md com exemplos práticos para n8n JavaScript (Code Node v2.9.x+)
+>
+> Complete tutorial on using Skills in LLMs (Codex CLI, Claude Code and Gemini CLI) — open SKILL.md standard with practical examples for n8n JavaScript (Code Node v2.9.x+)
+
+**Tags:**
+
+`llm` `ai-skills` `skill-md` `codex-cli` `claude` `gemini` `n8n` `javascript` `automation` `prompt-engineering` `agents` `ai-tools` `workflow` `openai` `anthropic` `google-gemini`
+
+---
