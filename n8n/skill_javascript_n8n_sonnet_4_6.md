@@ -288,3 +288,4 @@ Hierarquia recomendada (da mais segura para a menos):
 6. [ ] Erros tratados com **`try/catch`**?
 7. [ ] Subworkflows com Wait/human-in-the-loop estão **publicados**?
 8. [ ] Módulos Node.js customizados estão autorizados em `NODE_FUNCTION_ALLOW_BUILTIN`?
+   
