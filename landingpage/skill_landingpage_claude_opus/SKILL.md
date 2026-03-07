@@ -1,5 +1,5 @@
 ---
-name: landing-page-architect
+name: skill_landingpage_claude_opus
 description: >
   Build high-converting landing pages with persuasive copywriting, CRO best
   practices, and production-ready HTML/CSS/JS. Use this skill whenever the user
@@ -13,7 +13,7 @@ description: >
 compatibility:
   models: [claude-opus-4, claude-opus-3-7, claude-opus-3-5]
   context: cursor, claude-code, claude-ai
-version: "1.0.0"
+
 ---
 
 # Landing Page Architect
